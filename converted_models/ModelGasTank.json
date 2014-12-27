@@ -1,0 +1,235 @@
+{
+  "elements": [
+    {
+      "__comment": "emptyComment",
+      "from": [
+        5.5,
+        0.0,
+        11.5
+      ],
+      "to": [
+        10.5,
+        13.0,
+        12.5
+      ],
+      "faces": {
+        "down": {
+          "texture": "render"
+        },
+        "up": {
+          "texture": "render"
+        },
+        "north": {
+          "texture": "render"
+        },
+        "south": {
+          "texture": "render"
+        },
+        "west": {
+          "texture": "render"
+        },
+        "east": {
+          "texture": "render"
+        }
+      }
+    },
+    {
+      "__comment": "emptyComment",
+      "from": [
+        11.5,
+        0.0,
+        5.5
+      ],
+      "to": [
+        12.5,
+        13.0,
+        10.5
+      ],
+      "faces": {
+        "down": {
+          "texture": "render"
+        },
+        "up": {
+          "texture": "render"
+        },
+        "north": {
+          "texture": "render"
+        },
+        "south": {
+          "texture": "render"
+        },
+        "west": {
+          "texture": "render"
+        },
+        "east": {
+          "texture": "render"
+        }
+      }
+    },
+    {
+      "__comment": "emptyComment",
+      "from": [
+        5.5,
+        0.0,
+        3.5
+      ],
+      "to": [
+        10.5,
+        13.0,
+        4.5
+      ],
+      "faces": {
+        "down": {
+          "texture": "render"
+        },
+        "up": {
+          "texture": "render"
+        },
+        "north": {
+          "texture": "render"
+        },
+        "south": {
+          "texture": "render"
+        },
+        "west": {
+          "texture": "render"
+        },
+        "east": {
+          "texture": "render"
+        }
+      }
+    },
+    {
+      "__comment": "emptyComment",
+      "from": [
+        4.5,
+        0.0,
+        4.5
+      ],
+      "to": [
+        11.5,
+        14.0,
+        11.5
+      ],
+      "faces": {
+        "down": {
+          "texture": "render"
+        },
+        "up": {
+          "texture": "render"
+        },
+        "north": {
+          "texture": "render"
+        },
+        "south": {
+          "texture": "render"
+        },
+        "west": {
+          "texture": "render"
+        },
+        "east": {
+          "texture": "render"
+        }
+      }
+    },
+    {
+      "__comment": "emptyComment",
+      "from": [
+        3.5,
+        0.0,
+        5.5
+      ],
+      "to": [
+        4.5,
+        13.0,
+        10.5
+      ],
+      "faces": {
+        "down": {
+          "texture": "render"
+        },
+        "up": {
+          "texture": "render"
+        },
+        "north": {
+          "texture": "render"
+        },
+        "south": {
+          "texture": "render"
+        },
+        "west": {
+          "texture": "render"
+        },
+        "east": {
+          "texture": "render"
+        }
+      }
+    },
+    {
+      "__comment": "emptyComment",
+      "from": [
+        7.0,
+        14.0,
+        7.0
+      ],
+      "to": [
+        9.0,
+        16.0,
+        9.0
+      ],
+      "faces": {
+        "down": {
+          "texture": "render"
+        },
+        "up": {
+          "texture": "render"
+        },
+        "north": {
+          "texture": "render"
+        },
+        "south": {
+          "texture": "render"
+        },
+        "west": {
+          "texture": "render"
+        },
+        "east": {
+          "texture": "render"
+        }
+      }
+    },
+    {
+      "__comment": "emptyComment",
+      "from": [
+        9.0,
+        14.8,
+        7.5
+      ],
+      "to": [
+        10.0,
+        15.8,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "texture": "render"
+        },
+        "up": {
+          "texture": "render"
+        },
+        "north": {
+          "texture": "render"
+        },
+        "south": {
+          "texture": "render"
+        },
+        "west": {
+          "texture": "render"
+        },
+        "east": {
+          "texture": "render"
+        }
+      }
+    }
+  ]
+}

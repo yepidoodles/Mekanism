@@ -1,0 +1,697 @@
+{
+  "elements": [
+    {
+      "__comment": "emptyComment",
+      "from": [
+        13.5,
+        2.0,
+        13.0
+      ],
+      "to": [
+        14.5,
+        14.0,
+        14.0
+      ],
+      "faces": {
+        "down": {
+          "texture": "render"
+        },
+        "up": {
+          "texture": "render"
+        },
+        "north": {
+          "texture": "render"
+        },
+        "south": {
+          "texture": "render"
+        },
+        "west": {
+          "texture": "render"
+        },
+        "east": {
+          "texture": "render"
+        }
+      }
+    },
+    {
+      "__comment": "emptyComment",
+      "from": [
+        13.5,
+        2.0,
+        2.0
+      ],
+      "to": [
+        14.5,
+        14.0,
+        3.0
+      ],
+      "faces": {
+        "down": {
+          "texture": "render"
+        },
+        "up": {
+          "texture": "render"
+        },
+        "north": {
+          "texture": "render"
+        },
+        "south": {
+          "texture": "render"
+        },
+        "west": {
+          "texture": "render"
+        },
+        "east": {
+          "texture": "render"
+        }
+      }
+    },
+    {
+      "__comment": "emptyComment",
+      "from": [
+        2.0,
+        5.0,
+        6.0
+      ],
+      "to": [
+        14.0,
+        6.0,
+        10.0
+      ],
+      "faces": {
+        "down": {
+          "texture": "render"
+        },
+        "up": {
+          "texture": "render"
+        },
+        "north": {
+          "texture": "render"
+        },
+        "south": {
+          "texture": "render"
+        },
+        "west": {
+          "texture": "render"
+        },
+        "east": {
+          "texture": "render"
+        }
+      }
+    },
+    {
+      "__comment": "emptyComment",
+      "from": [
+        2.0,
+        10.0,
+        6.0
+      ],
+      "to": [
+        14.0,
+        11.0,
+        10.0
+      ],
+      "faces": {
+        "down": {
+          "texture": "render"
+        },
+        "up": {
+          "texture": "render"
+        },
+        "north": {
+          "texture": "render"
+        },
+        "south": {
+          "texture": "render"
+        },
+        "west": {
+          "texture": "render"
+        },
+        "east": {
+          "texture": "render"
+        }
+      }
+    },
+    {
+      "__comment": "emptyComment",
+      "from": [
+        2.0,
+        5.0,
+        10.0
+      ],
+      "to": [
+        14.0,
+        11.0,
+        11.0
+      ],
+      "faces": {
+        "down": {
+          "texture": "render"
+        },
+        "up": {
+          "texture": "render"
+        },
+        "north": {
+          "texture": "render"
+        },
+        "south": {
+          "texture": "render"
+        },
+        "west": {
+          "texture": "render"
+        },
+        "east": {
+          "texture": "render"
+        }
+      }
+    },
+    {
+      "__comment": "emptyComment",
+      "from": [
+        2.0,
+        5.0,
+        5.0
+      ],
+      "to": [
+        14.0,
+        11.0,
+        6.0
+      ],
+      "faces": {
+        "down": {
+          "texture": "render"
+        },
+        "up": {
+          "texture": "render"
+        },
+        "north": {
+          "texture": "render"
+        },
+        "south": {
+          "texture": "render"
+        },
+        "west": {
+          "texture": "render"
+        },
+        "east": {
+          "texture": "render"
+        }
+      }
+    },
+    {
+      "__comment": "emptyComment",
+      "from": [
+        12.0,
+        4.5,
+        4.5
+      ],
+      "to": [
+        13.0,
+        6.5,
+        6.5
+      ],
+      "faces": {
+        "down": {
+          "texture": "render"
+        },
+        "up": {
+          "texture": "render"
+        },
+        "north": {
+          "texture": "render"
+        },
+        "south": {
+          "texture": "render"
+        },
+        "west": {
+          "texture": "render"
+        },
+        "east": {
+          "texture": "render"
+        }
+      }
+    },
+    {
+      "__comment": "emptyComment",
+      "from": [
+        12.0,
+        4.5,
+        9.473333
+      ],
+      "to": [
+        13.0,
+        6.5,
+        11.473333
+      ],
+      "faces": {
+        "down": {
+          "texture": "render"
+        },
+        "up": {
+          "texture": "render"
+        },
+        "north": {
+          "texture": "render"
+        },
+        "south": {
+          "texture": "render"
+        },
+        "west": {
+          "texture": "render"
+        },
+        "east": {
+          "texture": "render"
+        }
+      }
+    },
+    {
+      "__comment": "emptyComment",
+      "from": [
+        12.0,
+        9.5,
+        9.473333
+      ],
+      "to": [
+        13.0,
+        11.5,
+        11.473333
+      ],
+      "faces": {
+        "down": {
+          "texture": "render"
+        },
+        "up": {
+          "texture": "render"
+        },
+        "north": {
+          "texture": "render"
+        },
+        "south": {
+          "texture": "render"
+        },
+        "west": {
+          "texture": "render"
+        },
+        "east": {
+          "texture": "render"
+        }
+      }
+    },
+    {
+      "__comment": "emptyComment",
+      "from": [
+        12.0,
+        9.5,
+        4.5
+      ],
+      "to": [
+        13.0,
+        11.5,
+        6.5
+      ],
+      "faces": {
+        "down": {
+          "texture": "render"
+        },
+        "up": {
+          "texture": "render"
+        },
+        "north": {
+          "texture": "render"
+        },
+        "south": {
+          "texture": "render"
+        },
+        "west": {
+          "texture": "render"
+        },
+        "east": {
+          "texture": "render"
+        }
+      }
+    },
+    {
+      "__comment": "emptyComment",
+      "from": [
+        3.0,
+        4.5,
+        4.5
+      ],
+      "to": [
+        4.0,
+        6.5,
+        6.5
+      ],
+      "faces": {
+        "down": {
+          "texture": "render"
+        },
+        "up": {
+          "texture": "render"
+        },
+        "north": {
+          "texture": "render"
+        },
+        "south": {
+          "texture": "render"
+        },
+        "west": {
+          "texture": "render"
+        },
+        "east": {
+          "texture": "render"
+        }
+      }
+    },
+    {
+      "__comment": "emptyComment",
+      "from": [
+        3.0,
+        4.5,
+        9.473333
+      ],
+      "to": [
+        4.0,
+        6.5,
+        11.473333
+      ],
+      "faces": {
+        "down": {
+          "texture": "render"
+        },
+        "up": {
+          "texture": "render"
+        },
+        "north": {
+          "texture": "render"
+        },
+        "south": {
+          "texture": "render"
+        },
+        "west": {
+          "texture": "render"
+        },
+        "east": {
+          "texture": "render"
+        }
+      }
+    },
+    {
+      "__comment": "emptyComment",
+      "from": [
+        3.0,
+        9.5,
+        9.473333
+      ],
+      "to": [
+        4.0,
+        11.5,
+        11.473333
+      ],
+      "faces": {
+        "down": {
+          "texture": "render"
+        },
+        "up": {
+          "texture": "render"
+        },
+        "north": {
+          "texture": "render"
+        },
+        "south": {
+          "texture": "render"
+        },
+        "west": {
+          "texture": "render"
+        },
+        "east": {
+          "texture": "render"
+        }
+      }
+    },
+    {
+      "__comment": "emptyComment",
+      "from": [
+        3.0,
+        9.5,
+        4.5
+      ],
+      "to": [
+        4.0,
+        11.5,
+        6.5
+      ],
+      "faces": {
+        "down": {
+          "texture": "render"
+        },
+        "up": {
+          "texture": "render"
+        },
+        "north": {
+          "texture": "render"
+        },
+        "south": {
+          "texture": "render"
+        },
+        "west": {
+          "texture": "render"
+        },
+        "east": {
+          "texture": "render"
+        }
+      }
+    },
+    {
+      "__comment": "emptyComment",
+      "from": [
+        4.0,
+        4.799999,
+        10.2
+      ],
+      "to": [
+        12.0,
+        5.799999,
+        11.2
+      ],
+      "faces": {
+        "down": {
+          "texture": "render"
+        },
+        "up": {
+          "texture": "render"
+        },
+        "north": {
+          "texture": "render"
+        },
+        "south": {
+          "texture": "render"
+        },
+        "west": {
+          "texture": "render"
+        },
+        "east": {
+          "texture": "render"
+        }
+      }
+    },
+    {
+      "__comment": "emptyComment",
+      "from": [
+        4.0,
+        10.2,
+        4.8
+      ],
+      "to": [
+        12.0,
+        11.2,
+        5.8
+      ],
+      "faces": {
+        "down": {
+          "texture": "render"
+        },
+        "up": {
+          "texture": "render"
+        },
+        "north": {
+          "texture": "render"
+        },
+        "south": {
+          "texture": "render"
+        },
+        "west": {
+          "texture": "render"
+        },
+        "east": {
+          "texture": "render"
+        }
+      }
+    },
+    {
+      "__comment": "emptyComment",
+      "from": [
+        4.0,
+        10.2,
+        10.2
+      ],
+      "to": [
+        12.0,
+        11.2,
+        11.2
+      ],
+      "faces": {
+        "down": {
+          "texture": "render"
+        },
+        "up": {
+          "texture": "render"
+        },
+        "north": {
+          "texture": "render"
+        },
+        "south": {
+          "texture": "render"
+        },
+        "west": {
+          "texture": "render"
+        },
+        "east": {
+          "texture": "render"
+        }
+      }
+    },
+    {
+      "__comment": "emptyComment",
+      "from": [
+        4.0,
+        4.799999,
+        4.8
+      ],
+      "to": [
+        12.0,
+        5.799999,
+        5.8
+      ],
+      "faces": {
+        "down": {
+          "texture": "render"
+        },
+        "up": {
+          "texture": "render"
+        },
+        "north": {
+          "texture": "render"
+        },
+        "south": {
+          "texture": "render"
+        },
+        "west": {
+          "texture": "render"
+        },
+        "east": {
+          "texture": "render"
+        }
+      }
+    },
+    {
+      "__comment": "emptyComment",
+      "from": [
+        14.0,
+        1.0,
+        1.0
+      ],
+      "to": [
+        16.0,
+        15.0,
+        15.0
+      ],
+      "faces": {
+        "down": {
+          "texture": "render"
+        },
+        "up": {
+          "texture": "render"
+        },
+        "north": {
+          "texture": "render"
+        },
+        "south": {
+          "texture": "render"
+        },
+        "west": {
+          "texture": "render"
+        },
+        "east": {
+          "texture": "render"
+        }
+      }
+    },
+    {
+      "__comment": "emptyComment",
+      "from": [
+        0.0,
+        4.0,
+        4.0
+      ],
+      "to": [
+        3.0,
+        12.0,
+        12.0
+      ],
+      "faces": {
+        "down": {
+          "texture": "render"
+        },
+        "up": {
+          "texture": "render"
+        },
+        "north": {
+          "texture": "render"
+        },
+        "south": {
+          "texture": "render"
+        },
+        "west": {
+          "texture": "render"
+        },
+        "east": {
+          "texture": "render"
+        }
+      }
+    },
+    {
+      "__comment": "emptyComment",
+      "from": [
+        13.0,
+        4.0,
+        4.0
+      ],
+      "to": [
+        14.0,
+        12.0,
+        12.0
+      ],
+      "faces": {
+        "down": {
+          "texture": "render"
+        },
+        "up": {
+          "texture": "render"
+        },
+        "north": {
+          "texture": "render"
+        },
+        "south": {
+          "texture": "render"
+        },
+        "west": {
+          "texture": "render"
+        },
+        "east": {
+          "texture": "render"
+        }
+      }
+    }
+  ]
+}

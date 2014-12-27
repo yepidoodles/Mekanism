@@ -1,0 +1,38 @@
+{
+    "variants": {
+        "facing=up,tier=basic":    { "model": "mekanism:energy_cube", "x": 90 },
+        "facing=down,tier=basic":  { "model": "mekanism:energy_cube", "x": -90 },
+        "facing=north,tier=basic": { "model": "mekanism:energy_cube" },
+        "facing=south,tier=basic": { "model": "mekanism:energy_cube", "y": 180 },
+        "facing=west,tier=basic":  { "model": "mekanism:energy_cube", "y": -90 },
+        "facing=east,tier=basic":  { "model": "mekanism:energy_cube", "y": 90 },
+
+        "facing=up,tier=advanced":    { "model": "mekanism:energy_cube", "x": 90 },
+        "facing=down,tier=advanced":  { "model": "mekanism:energy_cube", "x": -90 },
+        "facing=north,tier=advanced": { "model": "mekanism:energy_cube" },
+        "facing=south,tier=advanced": { "model": "mekanism:energy_cube", "y": 180 },
+        "facing=west,tier=advanced":  { "model": "mekanism:energy_cube", "y": -90 },
+        "facing=east,tier=advanced":  { "model": "mekanism:energy_cube", "y": 90 },
+
+        "facing=up,tier=elite":    { "model": "mekanism:energy_cube", "x": 90 },
+        "facing=down,tier=elite":  { "model": "mekanism:energy_cube", "x": -90 },
+        "facing=north,tier=elite": { "model": "mekanism:energy_cube" },
+        "facing=south,tier=elite": { "model": "mekanism:energy_cube", "y": 180 },
+        "facing=west,tier=elite":  { "model": "mekanism:energy_cube", "y": -90 },
+        "facing=east,tier=elite":  { "model": "mekanism:energy_cube", "y": 90 },
+
+        "facing=up,tier=ultimate":    { "model": "mekanism:energy_cube", "x": 90 },
+        "facing=down,tier=ultimate":  { "model": "mekanism:energy_cube", "x": -90 },
+        "facing=north,tier=ultimate": { "model": "mekanism:energy_cube" },
+        "facing=south,tier=ultimate": { "model": "mekanism:energy_cube", "y": 180 },
+        "facing=west,tier=ultimate":  { "model": "mekanism:energy_cube", "y": -90 },
+        "facing=east,tier=ultimate":  { "model": "mekanism:energy_cube", "y": 90 },
+
+        "facing=up,tier=creative":    { "model": "mekanism:energy_cube", "x": 90 },
+        "facing=down,tier=creative":  { "model": "mekanism:energy_cube", "x": -90 },
+        "facing=north,tier=creative": { "model": "mekanism:energy_cube" },
+        "facing=south,tier=creative": { "model": "mekanism:energy_cube", "y": 180 },
+        "facing=west,tier=creative":  { "model": "mekanism:energy_cube", "y": -90 },
+        "facing=east,tier=creative":  { "model": "mekanism:energy_cube", "y": 90 }
+    }
+}

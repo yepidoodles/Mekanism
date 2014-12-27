@@ -117,7 +117,7 @@ public class BlockStateMachine extends BlockStateFacing
 		PRESSURIZED_REACTION_CHAMBER(MachineBlock.MACHINE_BLOCK_2, 10, 40, TileEntityPRC.class, true, true, false, Plane.HORIZONTAL, true),
 		PORTABLE_TANK(MachineBlock.MACHINE_BLOCK_2, 11, 41, TileEntityPortableTank.class, false, true, false, Predicates.<EnumFacing>alwaysFalse(), true),
 		FLUIDIC_PLENISHER(MachineBlock.MACHINE_BLOCK_2, 12, 42, TileEntityFluidicPlenisher.class, true, true, false, Plane.HORIZONTAL, true),
-		LASER(MachineBlock.MACHINE_BLOCK_2, 13, -1, TileEntityLaser.class, true, true, false, Predicates.<EnumFacing>alwaysTrue(), true),
+		LASER(MachineBlock.MACHINE_BLOCK_2, 13, -1, TileEntityLaser.class, true, true, false, Predicates.<EnumFacing>alwaysTrue(), false),
 		LASER_AMPLIFIER(MachineBlock.MACHINE_BLOCK_2, 14, 44, TileEntityLaserAmplifier.class, false, true, false, Predicates.<EnumFacing>alwaysTrue(), true),
 		LASER_TRACTOR_BEAM(MachineBlock.MACHINE_BLOCK_2, 15, 45, TileEntityLaserTractorBeam.class, false, true, false, Predicates.<EnumFacing>alwaysTrue(), true),
 		AMBIENT_ACCUMULATOR(MachineBlock.MACHINE_BLOCK_3, 0, 46, TileEntityAmbientAccumulator.class, true, false, false, Plane.HORIZONTAL, true),
